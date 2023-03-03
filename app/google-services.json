@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609856746681",
+    "project_id": "karachiuniversitymap",
+    "storage_bucket": "karachiuniversitymap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609856746681:android:7e6639ec93f35d93395768",
+        "android_client_info": {
+          "package_name": "com.example.karachiuniversitymap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609856746681-52qobb0hd1tou70hrrmb4733k8g1ug22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM2pvHoWLruw-CEvZyeVKzgq_X2l-U5_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609856746681-52qobb0hd1tou70hrrmb4733k8g1ug22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

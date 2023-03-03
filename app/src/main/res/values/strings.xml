@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KarachiUniversityMAP</string>
+    <string name="Karachi_University">Karachi University</string>
+    <string name="PickupLocation">Pickup Location</string>
+    <string name="EnteryourPickupLocation">Enter your Pickup Location</string>
+    <array name="LocationArray">
+        <item>Kaneez Fatima gate</item>
+        <item>Mass Communication</item>
+        <item>UBIT</item>
+        <item>Pharmacy Department</item>
+        <item>KU Circular Road</item>
+        <item>Chemistry Canteen</item>
+        <item>Biochemistry Department</item>
+        <item>Admin Block</item>
+        <item>Silver Jublee Gate</item>
+        <item>Gymnasium</item>
+        <item>Habib Bank</item>
+        <item>Pharmacy Canteen</item>
+        <item>Muskan Gate</item>
+        <item>KUBS</item>
+        <item>Public Adminstration Department</item>
+        <item>IBA University</item>
+    </array>
+</resources>
